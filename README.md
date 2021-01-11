@@ -2,7 +2,7 @@
 
 I'm just a simple Bash and PHP enthusiast working as a full-stack web developer, living in Manchester, England.
 
-I love making applications that I think others will love. It all started just a few years ago, back in college, where I first learnt the joys of Bash scripting when the teacher told us to make a simple game. I ... did not make a simple game, instead I pushed myself to make it as complicated as I could; and now I have a fully functional Tetris clone written in 100% Bash as my crowning jewel.
+I love making applications that I think others will enjoy or find useful. It all started just a few years ago, back in college, where I first learnt the joys of Bash scripting when the teacher told us to make a simple game. I ... did not make a simple game, instead I pushed myself to make it as complicated as I could; and now I have a fully functional Tetris clone written in 100% Bash as my crowning jewel.
 
 Here's a little list of some of the projects I'm most proud of. I hope you like them.
 
