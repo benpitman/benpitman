@@ -8,7 +8,7 @@ Here's a little list of some of the projects I'm most proud of. I hope you like 
 
 - 🕹️ [Tetris](https://github.com/benpitman/Tetris-GNU-Bash-v4.3), a clone of the famous tetromino placing game built entirely in Bash.
 - 🕹️ [Superscipt](http://github.com/benpitman/Superscript-GNU-Bash-v4), another Bash-only game. This is a clone of the game [ZType](https://zty.pe), but although it does work, it could do with some updating to better support the double-width unicode characters.
-- 📦 [Kentron](https://github/pitmanware/kentron), a PHP utility suite for all my web-based projects to use.
+- 📦 [Kentron](https://github.com/pitmanware/kentron), a PHP utility suite for all my web-based projects to use.
 - 📍 [Travel To](https://github.com/benpitman/Travel-To-Bash), a simple bash script that you source in your bashrc that allows you to save commonly used directory paths and cd to them using aliases (I use this one a lot).
 - 📏 [Levenshtein](https://gist.github.com/benpitman/e1e3c158040dc78b017ce7ac6b94a9fa), a cheeky little bash function to calculate the levenshtein distance in bash without any subshells, making it nice and quick.
 
