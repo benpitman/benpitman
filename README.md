@@ -1,3 +1,5 @@
+![Code Wars](https://www.codewars.com/users/benpitman/badges/small)
+
 ### Hey there, welcome to my page!
 
 I'm just a simple Bash and PHP enthusiast working as a full-stack web developer, living in Manchester, England.
